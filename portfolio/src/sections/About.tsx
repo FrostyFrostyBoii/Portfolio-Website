@@ -146,14 +146,15 @@ export function About() {
 
             <div className="space-y-7 text-lg leading-8 text-[#333333]">
               <p>
-                I'm a software developer interested in building useful
-                products, solving interesting problems, and continuously
-                learning new technologies.
+                I'm a full-stack developer focused on building useful, reliable
+                applications from the user interface to the underlying systems that
+                power them.
               </p>
 
               <p>
-                My current interests include web development, software
-                architecture, and creating clean, maintainable applications.
+                I enjoy working across the stack, designing clean architectures,
+                developing intuitive experiences, and solving complex problems with
+                maintainable code.
               </p>
             </div>
 
@@ -165,9 +166,9 @@ export function About() {
                   : "translate-y-4 opacity-0"
               }`}
             >
-              <span>Web Development</span>
+              <span>Frontend</span>
+              <span>Backend</span>
               <span>Software Architecture</span>
-              <span>Clean Code</span>
             </div>
           </div>
         </div>
