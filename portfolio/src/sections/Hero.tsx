@@ -182,7 +182,7 @@ export function Hero() {
                 : "-translate-x-12 opacity-0"
             }`}
           >
-            Your Name<span className="text-[#fca311]">.</span>
+            Cyrus Jonker<span className="text-[#fca311]">.</span>
           </h1>
 
           {/* Role */}
@@ -193,7 +193,7 @@ export function Hero() {
                 : "-translate-x-10 opacity-0"
             }`}
           >
-            Software Developer
+            Full Stack Developer
           </h2>
 
           {/* Description */}
@@ -207,7 +207,7 @@ export function Hero() {
             <span className="w-0.5 shrink-0 bg-[#fca311]" />
 
             <p className="text-lg leading-8 text-[#ebebeb]">
-              I build thoughtful, reliable, and user-focused software.
+              I build thoughtful, reliable, and user-focused applications across the full stack.
             </p>
           </div>
 
@@ -233,12 +233,6 @@ export function Hero() {
           </div>
         </div>
       </div>
-
-      {/* Bottom section divider */}
-      <div
-        aria-hidden="true"
-        className="absolute bottom-0 left-0 right-0 h-[2px] bg-[#fca311]"
-      />
 
       {/* Animation definitions */}
       <style>{`

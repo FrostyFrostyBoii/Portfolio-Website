@@ -25,7 +25,7 @@ export function Navbar() {
           aria-label="Home"
         >
           <span className="text-[15px] font-bold uppercase tracking-[0.08em] text-[#14213d]">
-            Your Name
+            Cyrus Jonker
           </span>
 
           <span className="h-1.5 w-1.5 rounded-full bg-[#fca311] transition-transform duration-200 group-hover:scale-150" />

@@ -36,7 +36,7 @@ function App() {
           {/* Copyright */}
           <div>
             <p className="text-[13px] font-medium tracking-wide text-[#e5e5e5]">
-              © {new Date().getFullYear()} Your Name
+              © {new Date().getFullYear()} Cyrus Jonker. All rights reserved.
             </p>
 
             <p className="mt-1 text-xs text-[#666666]">
